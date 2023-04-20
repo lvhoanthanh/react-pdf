@@ -3,12 +3,12 @@
   "version": "2.3.1",
   "license": "MIT",
   "description": "React-pdf TypeScript definitions",
-  "author": "Diego Muracciole <diegomuracciole@gmail.com>",
-  "homepage": "https://github.com/diegomura/react-pdf#readme",
+  "author": "Diego Muracciole <lvhoanthanh@gmail.com>",
+  "homepage": "https://github.com/hoanthanh/react-pdf#readme",
   "main": "index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/diegomura/react-pdf.git",
+    "url": "https://github.com/hoanthanh/react-pdf.git",
     "directory": "packages/types"
   }
 }

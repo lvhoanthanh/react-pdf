@@ -65,4 +65,4 @@ This library exports a `stylesheet` function that takes two arguments:
 
 ## License
 
-MIT © [Diego Muracciole](http://github.com/diegomura)
+MIT © [Diego Muracciole](http://github.com/hoanthanh)

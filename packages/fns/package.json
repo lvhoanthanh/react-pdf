@@ -3,13 +3,13 @@
   "version": "2.0.1",
   "license": "MIT",
   "description": "React-pdf helper functions",
-  "author": "Diego Muracciole <diegomuracciole@gmail.com>",
-  "homepage": "https://github.com/diegomura/react-pdf#readme",
+  "author": "Diego Muracciole <lvhoanthanh@gmail.com>",
+  "homepage": "https://github.com/hoanthanh/react-pdf#readme",
   "main": "lib/index.cjs.js",
   "module": "lib/index.es.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/diegomura/react-pdf.git",
+    "url": "https://github.com/hoanthanh/react-pdf.git",
     "directory": "packages/fns"
   },
   "scripts": {

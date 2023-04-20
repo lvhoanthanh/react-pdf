@@ -91,8 +91,8 @@ const pdf = initialValue => {
   /*
    * TODO: remove this method in next major release. it is buggy
    * see
-   * - https://github.com/diegomura/react-pdf/issues/2112
-   * - https://github.com/diegomura/react-pdf/issues/2095
+   * - https://github.com/hoanthanh/react-pdf/issues/2112
+   * - https://github.com/hoanthanh/react-pdf/issues/2095
    */
   const toString = async () => {
     if (process.env.NODE_ENV === 'development') {

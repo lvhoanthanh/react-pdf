@@ -3,13 +3,13 @@
   "version": "4.1.5",
   "license": "MIT",
   "description": "A styles engine for Node and the browser",
-  "author": "Diego Muracciole <diegomuracciole@gmail.com>",
-  "homepage": "https://github.com/diegomura/react-pdf#readme",
+  "author": "Diego Muracciole <lvhoanthanh@gmail.com>",
+  "homepage": "https://github.com/hoanthanh/react-pdf#readme",
   "main": "lib/index.cjs.js",
   "module": "lib/index.es.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/diegomura/react-pdf.git",
+    "url": "https://github.com/hoanthanh/react-pdf.git",
     "directory": "packages/stylesheet"
   },
   "scripts": {

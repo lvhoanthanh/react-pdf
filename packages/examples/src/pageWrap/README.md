@@ -2,4 +2,4 @@
 
 # react-pdf page wrap example
 
-[Go to live demo](http://react-pdf.diegomura.com/repl?example=page-wrap)
+[Go to live demo](http://react-pdf.hoanthanh.com/repl?example=page-wrap)
