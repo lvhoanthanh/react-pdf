@@ -9,7 +9,7 @@
   "module": "lib/index.es.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/diegomura/react-pdf.git",
+    "url": "https://github.com/lvhoanthanh/react-pdf.git",
     "directory": "packages/render"
   },
   "scripts": {
