@@ -29,7 +29,11 @@ const drawImage = (ctx, node, options = {}) => {
     if (width !== 0 && height !== 0) {
       const cacheKey = node.image.key;
 
-      const image = imageCache.get(cacheKey) || ctx.embedImage(node.image.data);
+      // const image = imageCache.get(cacheKey) || ctx.embedImage(node.image.data);
+      const image =
+        imageCache.get(cacheKey) || ctx.embedImage
+          ? ctx.embedImage(node.image.data)
+          : node.image.data;
 
       if (cacheKey) imageCache.set(cacheKey, image);
 
