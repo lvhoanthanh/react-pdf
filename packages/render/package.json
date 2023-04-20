@@ -3,8 +3,8 @@
   "version": "3.2.4",
   "license": "MIT",
   "description": "A render engine for Node and the browser",
-  "author": "Diego Muracciole <lvhoanthanh@gmail.com>",
-  "homepage": "https://github.com/hoanthanh/react-pdf#readme",
+  "author": "Hoan Thanh <lvhoanthanh@gmail.com>",
+  "homepage": "https://github.com/lvhoanthanh/react-pdf#readme",
   "main": "lib/index.cjs.js",
   "module": "lib/index.es.js",
   "repository": {

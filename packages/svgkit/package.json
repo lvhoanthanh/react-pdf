@@ -6,11 +6,11 @@
   "main": "./lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hoanthanh/react-pdf.git",
+    "url": "https://github.com/lvhoanthanh/react-pdf.git",
     "directory": "packages/svgkit"
   },
   "contributors": [
-    "Diego Muracciole <lvhoanthanh@gmail.com>"
+    "Hoan Thanh <lvhoanthanh@gmail.com>"
   ],
   "scripts": {
     "test": "jest",

@@ -3,8 +3,8 @@
   "name": "@react-pdf/root",
   "version": "2.0.0",
   "license": "MIT",
-  "author": "Diego Muracciole <lvhoanthanh@gmail.com>",
-  "homepage": "https://github.com/hoanthanh/react-pdf#readme",
+  "author": "Hoan Thanh <lvhoanthanh@gmail.com>",
+  "homepage": "https://github.com/lvhoanthanh/react-pdf#readme",
   "repository": "git@github.com:lvhoanthanh/react-pdf.git",
   "workspaces": [
     "packages/*"

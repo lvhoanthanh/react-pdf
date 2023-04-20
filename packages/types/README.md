@@ -14,4 +14,4 @@ yarn add @react-pdf/types
 
 ## License
 
-MIT © [Diego Muracciole](http://github.com/hoanthanh)
+MIT © [Hoan Thanh](http://github.com/lvhoanthanh)

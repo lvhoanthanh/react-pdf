@@ -3,9 +3,9 @@
   "version": "2.0.8",
   "license": "MIT",
   "private": true,
-  "author": "Diego Muracciole <lvhoanthanh@gmail.com>",
-  "homepage": "https://github.com/hoanthanh/react-pdf#readme",
-  "repository": "git@github.com:hoanthanh/react-pdf.git",
+  "author": "Hoan Thanh <lvhoanthanh@gmail.com>",
+  "homepage": "https://github.com/lvhoanthanh/react-pdf#readme",
+  "repository": "git@github.com:lvhoanthanh/react-pdf.git",
   "main": "lib",
   "scripts": {
     "test": "jest"

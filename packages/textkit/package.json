@@ -7,12 +7,12 @@
   "module": "./lib/textkit.es.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hoanthanh/react-pdf.git",
+    "url": "https://github.com/lvhoanthanh/react-pdf.git",
     "directory": "packages/textkit"
   },
   "contributors": [
     "Devon Govett <devongovett@gmail.com>",
-    "Diego Muracciole <lvhoanthanh@gmail.com>"
+    "Hoan Thanh <lvhoanthanh@gmail.com>"
   ],
   "scripts": {
     "test": "jest",

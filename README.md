@@ -5,16 +5,16 @@
     <a href="https://www.npmjs.com/package/@react-pdf/renderer">
       <img src="https://img.shields.io/npm/v/@react-pdf/renderer.svg" />
     </a>
-    <a href="https://travis-ci.org/hoanthanh/react-pdf">
-      <img src="https://img.shields.io/travis/hoanthanh/react-pdf.svg" />
+    <a href="https://travis-ci.org/lvhoanthanh/react-pdf">
+      <img src="https://img.shields.io/travis/lvhoanthanh/react-pdf.svg" />
     </a>
-    <a href="https://github.com/hoanthanh/react-pdf/blob/master/LICENSE">
-      <img src="https://img.shields.io/github/license/hoanthanh/react-pdf.svg" />
+    <a href="https://github.com/lvhoanthanh/react-pdf/blob/master/LICENSE">
+      <img src="https://img.shields.io/github/license/lvhoanthanh/react-pdf.svg" />
     </a>
     <a href="https://github.com/prettier/prettier">
       <img src="https://img.shields.io/badge/styled_with-prettier-ff69b4.svg" />
     </a>
-    <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fhoanthanh%2Freact-pdf?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhoanthanh%2Freact-pdf.svg?type=shield"/></a>
+    <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Flvhoanthanh%2Freact-pdf?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Flvhoanthanh%2Freact-pdf.svg?type=shield"/></a>
   </p>
 </p>
 
@@ -86,9 +86,9 @@ ReactPDF.render(<MyDocument />, `${__dirname}/example.pdf`);
 
 ## Contributors
 
-This project exists thanks to all the people who contribute. Looking to contribute? Please check our [[contribute]](https://github.com/hoanthanh/react-pdf/blob/master/.github/CONTRIBUTING.md) document for more details about how to setup a development environment and submitting code.
+This project exists thanks to all the people who contribute. Looking to contribute? Please check our [[contribute]](https://github.com/lvhoanthanh/react-pdf/blob/master/.github/CONTRIBUTING.md) document for more details about how to setup a development environment and submitting code.
 
-<a href="https://github.com/hoanthanh/react-pdf/blob/master/.github/CONTRIBUTING.md"><img src="https://opencollective.com/react-pdf/contributors.svg?width=890" /></a>
+<a href="https://github.com/lvhoanthanh/react-pdf/blob/master/.github/CONTRIBUTING.md"><img src="https://opencollective.com/react-pdf/contributors.svg?width=890" /></a>
 
 ## Sponsors
 
@@ -104,9 +104,9 @@ Thank you to all our backers! [[Become a backer](https://opencollective.com/reac
 
 ## License
 
-MIT © [Diego Muracciole](http://github.com/hoanthanh)
+MIT © [Hoan Thanh](http://github.com/lvhoanthanh)
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhoanthanh%2Freact-pdf.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhoanthanh%2Freact-pdf?ref=badge_large)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flvhoanthanh%2Freact-pdf.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Flvhoanthanh%2Freact-pdf?ref=badge_large)
 
 ---
 ![](https://img.shields.io/npm/dt/@react-pdf/renderer.svg?style=flat)

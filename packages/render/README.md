@@ -141,4 +141,4 @@ ctx.pipe(stream);
 
 ## License
 
-MIT © [Diego Muracciole](http://github.com/hoanthanh)
+MIT © [Hoan Thanh](http://github.com/lvhoanthanh)
